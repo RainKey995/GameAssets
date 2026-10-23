@@ -2,13 +2,19 @@
 
 ## 各文件夹使用说明
 
-| 文件名   | 描述                 |
-| -------- | -------------------- |
-| Arts     | 放置项目中的美术资源 |
-| Audios   | 放置项目中的音效文件 |
-| Docs     | 放置策划案文档       |
-| Models   | 放置 3D 模型文件     |
-| Previews | 游戏效果预览图       |
+| 文件名              | 描述                                   |
+| ------------------- | -------------------------------------- |
+| Arts                | 放置项目中的美术资源                   |
+| Arts/ProjectFiles   | 放置如 .ps .ai 等美术相关的工程文件    |
+| Arts/ExportFiles    | 放置导出的美术资源                     |
+| Audios              | 放置项目中的音效文件                   |
+| Audios/ProjectFiles | 放置音乐相关的工程文件                 |
+| Audios/ExportFiles  | 放置导出的音乐资源                     |
+| Docs                | 放置策划案文档                         |
+| Models              | 放置模型相关的文件                     |
+| Models/ProjectFiles | 放置 .blender .maya 等 3D 模型工程文件 |
+| Models/ExportFiles  | 放置导出的3D 模型文件                  |
+| Previews            | 游戏效果预览图                         |
 
 ## 文件命名规则
 
